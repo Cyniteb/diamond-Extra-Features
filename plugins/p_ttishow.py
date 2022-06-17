@@ -150,9 +150,8 @@ async def get_ststs(bot, message):
 
 @Client.on_message(filters.command('harman') & filters.incoming)
 async def get_ststs(bot, message):
-    rju = await message.reply('<b>Giving Link Wait...</b>')
-    https://t.me/CyniteOfficial
-
+    rju = await message.reply('<b>https://t.me/CyniteOfficial</b>')
+    
 
 # a function for trespassing into others groups, Inspired by a Vazha
 # Not to be used , But Just to showcase his vazhatharam.
