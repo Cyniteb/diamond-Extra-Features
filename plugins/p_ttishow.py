@@ -150,7 +150,7 @@ async def get_ststs(bot, message):
 
 @Client.on_message(filters.command('harman') & filters.incoming)
 async def get_ststs(bot, message):
-    rju = await message.reply('<b>https://t.me/CyniteOfficial</b>')
+    rju = await message.reply('<b>Take It Brother Thanks For Using Out Bot https://t.me/CyniteOfficial</b>')
     
 
 # a function for trespassing into others groups, Inspired by a Vazha
