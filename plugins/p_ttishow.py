@@ -150,7 +150,7 @@ async def get_ststs(bot, message):
 
 @Client.on_message(filters.command('harman') & filters.incoming)
 async def get_ststs(bot, message):
-    rju = await message.reply('<b>Hey Take It Brother Thanks For Using Our Bot https://t.me/CyniteOfficial</b>')
+    rju = await message.reply('<b>Hey {} Take It Brother Thanks For Using Our Bot https://t.me/CyniteOfficial</b>')
     Thanks)) 
  
      
